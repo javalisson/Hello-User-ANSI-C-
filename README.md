@@ -1,6 +1,6 @@
 # Hello, User! (ANSI C)
 
-Asks the user's name and displays a greeting message it or the default name `"World"`.
+Asks the user's name and displays a greeting message with it or with the default name `"World"`.
 
 ```sh
 $ ./main
