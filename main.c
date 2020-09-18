@@ -3,7 +3,7 @@
 #include <limits.h>
 
 int main(void) {
-  char name[LINE_MAX] = "World\n";
+  char name[LINE_MAX] = "World";
   char input[LINE_MAX];
 
   printf("Type your name:\n");
@@ -12,7 +12,7 @@ int main(void) {
   // this removes the new line from the end of the string
   input[strcspn(input, "\n")] = 0;
 
-  if (strcmp(input, "\n") != 0) {
+  if (strcmp(input, "") != 0) {
     strcpy(name, input);
   }
 
