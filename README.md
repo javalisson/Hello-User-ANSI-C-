@@ -19,3 +19,15 @@ Hello, World!
 ```
 
 This was generated from a repl from [Repl.it](https://repl.it/languages/c). To view, execute and modify the original, click [here](https://repl.it/@javalisson/Hello-User).
+
+## Compilation and execution
+
+First compile
+```sh
+$ clang-7 -pthread -lm -o main main.c
+```
+
+Then run
+```sh
+$ ./main
+```
