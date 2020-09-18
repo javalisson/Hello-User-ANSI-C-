@@ -18,4 +18,4 @@ Type your name:
 Hello, World!
 ```
 
-This was generated from a repl from [Repl.it](https://repl.it/languages/c).
+This was generated from a repl from [Repl.it](https://repl.it/languages/c). To view, execute and modify the original, click [here](https://repl.it/@javalisson/Hello-User).
