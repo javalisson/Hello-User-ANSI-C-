@@ -6,7 +6,7 @@ int main(void) {
   char name[LINE_MAX] = "World";
   char input[LINE_MAX];
 
-  printf("Type your name:\n");
+  printf("Type your name (or just hit enter):\n");
   fgets(input, LINE_MAX, stdin);
 
   // this removes the new line from the end of the string

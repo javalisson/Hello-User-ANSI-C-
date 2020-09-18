@@ -4,7 +4,7 @@ Asks the user's name and displays a greeting message with it or with the default
 
 ```sh
 $ ./main
-Type your name:
+Type your name (or just hit enter):
 Alisson
 Hello, Alisson!
 ```
@@ -13,7 +13,7 @@ or
 
 ```sh
 $ ./main
-Type your name:
+Type your name (or just hit enter):
 
 Hello, World!
 ```
